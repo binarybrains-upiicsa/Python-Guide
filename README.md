@@ -13,7 +13,7 @@
   
   <p>🐍 <a href="#about-this-course"> About this course!</a></p> 
   <p>🐍 <a href="#preparing-the-environment"> Preparing the environment</a></p>
-  <p>🐍 <a href=""> About Google Colaboratory</a></p>
+  <p>🐍 <a href="https://github.com/binarybrains-upiicsa/Python-Guide/tree/main/Notebooks"> About Google Colaboratory</a></p>
   <p>🐍 <a href=""> Basics</a></p>
   <p>🐍 <a href=""> Conditionals</a></p>
   <p>🐍 <a href=""> Loops</a></p>
